@@ -50,7 +50,7 @@ input, button{
     font-size: 1.25rem;
 }
 #new-task-input::placeholder{
-    color: var(--light);
+    color: var(--gray);
 }
 #new-task-submit{
     color: var(--pink);
